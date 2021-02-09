@@ -23,4 +23,5 @@ To produce results from a recent paper that has employed molecular dynamics simu
 A point mutation (V66M) is said to have effects on the wildtype behavior of the BDNF protein thus causing psychiatric disorders. The key objective of this paper is to study the molecular dynamics of V66M mutated protein for understanding its effect on psychiatric disorders. 
     
 Superimposed structure of the wildtype and the mutated protein are as follows - 
+
 ![image](https://user-images.githubusercontent.com/38180846/107353018-90dd8a80-6af2-11eb-8beb-1f482943061f.png)
