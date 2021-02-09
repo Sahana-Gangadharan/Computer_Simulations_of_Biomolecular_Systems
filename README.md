@@ -1,6 +1,6 @@
 # Computer_Simulations_of_Biomolecular_Systems
 
-Assignments, Class Presentation, Examination and Course Project done as a part of BT5420 - Computational Systems Biology course offered by Prof Hamsa Priya Mohanasundaram in the Fall (2020) semester.
+Assignments, Class Presentation, Examination and Course Project done as a part of BT5420 - Computer Simulations of Biomolecular Systems course offered by Prof Hamsa Priya Mohanasundaram in the Fall (2020) semester.
 
 ## Assignment 1
 
